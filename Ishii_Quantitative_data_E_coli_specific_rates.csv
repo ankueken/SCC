@@ -1,0 +1,12 @@
+Sample ID,GR01,GR02,GR03,GR04,,RF03,RF05,RF06
+,"WT, 0.1h-1","WT, 0.4h-1","WT, 0.5h-1","WT, 0.7h-1",,WT(Jun),WT(Sep),WT(Oct)
+Glucose consumption rate,1.34 ,5.05 ,6.63 ,13.34 ,,3.28 ,2.86 ,2.67 
+Oxygen uptake rate (OUR),2.20 ,9.57 ,13.05 ,14.87 ,,1.06 ,6.64 ,9.67 
+Carbon dioxide evolution rate (CER),0.31 ,7.88 ,8.95 ,10.83 ,,6.20 ,3.09 ,3.03 
+,,,,,,,,
+Ethanol production rate,0.00 ,0.00 ,0.15 ,0.15 ,,0.00 ,0.00 ,0.00 
+Acetate production rate,0.00 ,0.01 ,0.49 ,1.93 ,,0.00 ,0.00 ,0.00 
+D-Lactate production rate,0.00 ,0.00 ,0.00 ,0.00 ,,0.00 ,0.00 ,0.00 
+Succinate production rate,0.00 ,0.00 ,0.00 ,0.00 ,,0.00 ,0.00 ,0.00 
+Pyruvate production rate,0.00 ,0.00 ,0.00 ,0.01 ,,0.00 ,0.00 ,0.00 
+Formate production rate,0.00 ,0.00 ,0.13 ,0.08 ,,0.00 ,0.00 ,0.00 

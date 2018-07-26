@@ -1,0 +1,11 @@
+,mean,,,,,,,,,standard deviation,,,,,,,
+Physiology,Acetate,Fructose,Galactose,Glucose,Glycerol,Gluconate,Pyruvate,Succinate,,Acetate,Fructose,Galactose,Glucose,Glycerol,Gluconate,Pyruvate,Succinate
+Growth rate  (h-1),0.29,0.49,0.18,0.65,0.49,0.59,0.39,0.51,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Uptake rate carbon source (mmol gCDW-1 h-1),13.58,8.33,1.97,9.65,10.14,7.28,26.71,15.90,,0.33,0.29,0.1,0.04,0.15,0.03,0.79,0.31
+Acetate secretion (mmol gCDW-1 h-1),,3.33,,6.83,0.60,5.00,11.91,3.32,,,0.33,,1.03,0.2,0.16,0.53,0.31
+Lactate secretion (mmol gCDW-1 h-1),,,,,,,1.16,,,,,,,,,0.07,
+Fumarate secretion (mmol gCDW-1 h-1),,,,,,,,1.14,,,,,,,,,0.07
+Biomass yield (g g-1) ,0.35,0.33,0.46,0.37,0.47,0.41,0.16,0.26,,0.01,0.01,0.03,0,0.01,0,0.01,0.01
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Mean values and standard deviations were obtained from 3 biological replicates,,,,,,,,,,,,,,,,,
